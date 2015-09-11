@@ -24,4 +24,4 @@ In this exercise we will have a look at how (mainly HTTP) servers work.
 
 - A blog post about creating a Telnet Server: [David Clifton's Blog - Simple Telnet Server in Node.js](http://www.davidmclifton.com/2011/07/22/simple-telnet-server-in-node-js/).
 
-- A blog post about creating a Telnet Server: [David Clifton's Blog - Simple Telnet Server in Node.js](http://www.davidmclifton.com/2011/07/22/simple-telnet-server-in-node-js/).
+- A blog post about creating a HTTP Server: [How To Node - Hello Node!](http://howtonode.org/hello-node).
