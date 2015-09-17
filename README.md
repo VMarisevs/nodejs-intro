@@ -10,7 +10,7 @@ In this exercise we will have a look at how (mainly HTTP) servers work.
 
 1. Download telnet.js and run it by typing 'node telnet.js'. You will obviously have to 'cd' to the directory containing telnet.js first.
 
-1. Try telneting to your server to verify it works.
+1. Download Putty from the link below and try telneting to your server to verify it works.
 
 1. Run http.js, and connect to the HTTP server using your browser.
 
