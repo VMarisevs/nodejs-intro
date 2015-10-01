@@ -1,10 +1,11 @@
+###### Semantic Web and Linked Data - Exercise 1
 # Introduction to Node.js and Protocols
 In this exercise we will have a look at how (mainly HTTP) servers work.
 
 ## Exercises
 1. Download the node.js executable from [here](https://nodejs.org/download/release/v4.0.0/win-x64/), and save it to U:\node\.
 
-1. Download the latest NPM file from [here](http://nodejs.org/dist/npm/), and extract it in U:\node\.
+1. Download the latest NPM file from [here](https://github.com/npm/npm/archive/v3.3.1.zip), and extract it in U:\node\.
 
 1. Verify that node runs by typing 'node' at the command prompt.
 
